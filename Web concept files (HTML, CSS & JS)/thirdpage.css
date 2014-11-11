@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* 3rd page */
+
+body{
+	background:#302536;
+	font-family: 'Roboto', sans-serif;
+	margin: 0px 0px 0px 0px;
+	overflow:hidden; /*doesn't allow scrolling past the content's size*/
+}
+
+#wrapper{
+	z-index:1;
+	width:310px;
+	margin: 0 auto;
+	margin-top:50px;		
+}
+
+#text1{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:19px;
+	top:-10px;
+}
+
+#text2{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:19px;
+	top:-10px;
+}
+
+#text3{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:19px;
+	top:-10px;
+}
+
+#next{
+	display:block;
+	position:relative;
+	left:60px;
+	top:25px;
+}
+

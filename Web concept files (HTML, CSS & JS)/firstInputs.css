@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* inputs that the user makes the first time they enter the app */
+
+body{
+	background:#302536;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	margin: 0px 0px 0px 0px;
+	overflow:hidden; /*doesn't allow scrolling past the content's size*/
+}
+
+#wrapper{
+	z-index:1;
+	width:305px;
+	margin: 0 auto;
+	margin-top:20px;		
+}
+
+#first-text{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:17px;
+	top:-10px;
+}
+
+#usual-bedtime{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:5px;
+}
+
+#set-time{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:120px;
+}
+
+hr{
+	display:block;
+	position:relative;
+	border-width:1px;
+	border-color:#5ea6c7;
+	top:-15px;
+}
+
+#wakeup-time{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:-2px;
+}
+
+#wakeup{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:160px;
+}
+
+#sleep-hours{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:-2px;
+}
+
+#set-hrs{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:180px;
+}
+
+#meal-intervals{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:-2px;
+}
+
+#set-meals{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:120px;
+}
+
+#medical-conditions{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:-2px;
+}
+
+#pick-medical{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:180px;	
+}
+
+#places{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:-2px;	
+}
+
+#pick-places{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:150px;
+}
+
+#changes{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:14px;
+	top:-20px;
+	margin-left:31px;
+}
+
+#main-menu-no-login{
+	display:block;
+	position:relative;
+	top:-10px;
+	margin-left:50px;
+}
+
+

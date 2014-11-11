@@ -1,0 +1,235 @@
+@charset "utf-8";
+/* first page */
+
+body{
+	background:#302536;
+	font-family: 'Roboto', sans-serif;
+	margin: 0px 0px 0px 0px;
+	/*overflow:hidden;*/
+	color:#5ea6c7;
+}
+
+#wrapper{
+	z-index:1;
+	width:320px;
+	margin: 0 auto;	
+}
+
+#hey{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:22px;
+	top:-10px;
+	margin-left:100px;
+}
+.text{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:22px;
+	top:-10px;
+}
+
+#get-started{
+	display:block;
+	position:relative;
+	left:60px;
+	top:20px;
+}
+
+#sloth{
+	position:relative;
+	top:80px;
+	width:300px;
+}
+
+/* other pages :3 */
+
+#tip {
+	text-align: center;
+}
+
+.btnLogin {
+	background-color: #483652;
+	color: #5ea6c7;
+	width: 150px;
+	height: 25px;
+	border: 0;
+	position: relative;
+	left: 170px;
+	border-radius: 8px;
+}
+
+.userpass {
+	width: 180px;
+}
+
+.inputFields {
+	position: relative;
+	left: 85px;
+	background-color: #483652;
+	border: 0;
+	height: 25px;
+	width: 200px;
+	border-radius: 8px;
+}
+
+#registerblock .btnLogin {
+	position: relative;
+	left: 135px;
+}
+
+select {
+	background-color: #483652;
+	color: #5ea6c7;
+	border: 0;
+	width: 320px;
+	height: 30px;
+	padding-left: 20px;
+	border-radius: 5px;
+	margin: 0 auto;
+}
+
+input[type="time"] {
+	background-color: #483652;
+	color: #5ea6c7;
+	border: 0;
+	width: 300px;
+	height: 30px;
+	padding-left: 20px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+/* inputNewData */
+
+#need-data{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:17px;
+	top:-10px;
+	margin-left:60px;
+}
+
+#usual-bedtime{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:5px;
+}
+
+#set-time{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:120px;
+}
+
+hr{
+	display:block;
+	position:relative;
+	border-width:1px;
+	border-color:#5ea6c7;
+}
+
+#wakeup-time{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:-2px;
+}
+
+#wakeup{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:160px;
+}
+
+#sleep-hours{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:-2px;
+}
+
+#set-hrs{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:180px;
+}
+
+#meal-intervals{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:-2px;
+}
+
+#set-meals{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:120px;
+}
+
+#medical-conditions{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:-2px;
+}
+
+#pick-medical{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:180px;	
+}
+
+#places{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:16px;
+	top:-2px;	
+}
+
+#exclude-places{
+	display:block;
+	position:relative;
+	top:-20px;
+	margin-left:120px;
+}
+
+#changes{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:14px;
+	top:-20px;
+	margin-left:31px;
+}
+
+#save{
+	display:block;
+	position:relative;
+	top:-10px;
+	margin-left:100px;
+}
+
+
+
+
+
+
+
+

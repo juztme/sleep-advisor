@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* 2nd page */
+
+body{
+	background:#302536;
+	font-family: 'Roboto', sans-serif;
+	margin: 0px 0px 0px 0px;
+	overflow:hidden; /*doesn't allow scrolling past the content's size*/
+}
+
+#wrapper{
+	z-index:1;
+	width:310px;
+	margin: 0 auto;		
+}
+
+#text{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:19px;
+	top:-10px;
+}
+
+#why{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:19px;
+	top:-10px;
+	margin-left:135px; /*if you put only "left", it makes the page scrollable to the right*/
+}
+
+#text2{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:19px;
+	top:10px;
+}
+
+#text3{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:19px;
+	top:10px;
+}
+
+#next{
+	display:block;
+	position:relative;
+	left:60px;
+	top:25px;
+}
+
+#no-sleep{
+	position:relative;
+	top:50px;
+	width:300px;
+	margin-left:10px;
+}

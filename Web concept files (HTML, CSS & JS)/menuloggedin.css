@@ -1,0 +1,162 @@
+@charset "utf-8";
+/* menu when the user is logged in */
+
+body{
+	background:#302536;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	margin: 0px 0px 0px 0px;
+	overflow:hidden; /*doesn't allow scrolling past the content's size*/
+}
+
+#wrapper{
+	z-index:1;
+	width:305px;
+	margin: 0 auto;
+	margin-top:20px;		
+}
+
+#andrew{
+	color:#5ea6c7;
+}
+
+#logout{
+	display:block;
+	position:relative;
+	top:-37px;
+	margin-left:240px;
+}
+
+#meal-dot{
+	background:#483652;
+	position:relative;
+	width:11px;
+	height:11px;
+	border-radius:150px;
+	top:30px;
+}
+
+#meal-tips{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	top:-8px;
+	margin-left:20px;
+	font-size:19px;
+}
+
+#location-dot{
+	background:#483652;
+	position:relative;
+	width:11px;
+	height:11px;
+	border-radius:150px;
+	top:-5px;
+}
+
+#location-tips{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	top:-43px;
+	margin-left:20px;
+	font-size:19px;
+}
+
+#auto-sleep-dot{
+	background:#483652;
+	position:relative;
+	width:11px;
+	height:11px;
+	border-radius:150px;
+	top:-40px;
+}
+
+#auto-sleep-mode{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	top:-78px;
+	margin-left:20px;
+	font-size:19px;
+}
+
+#bedtime-reminders-dot{
+	background:#483652;
+	position:relative;
+	width:11px;
+	height:11px;
+	border-radius:150px;
+	top:-75px;
+}
+
+#bedtime-reminders{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	top:-112px;
+	margin-left:20px;
+	font-size:19px;
+}
+
+#sleep-tracking-dot{
+	background:#483652;
+	position:relative;
+	width:11px;
+	height:11px;
+	border-radius:150px;
+	top:-110px;
+}
+
+#sleep-tracking{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	top:-148px;
+	margin-left:20px;
+	font-size:19px;
+}
+
+#steps-dot{
+	background:#483652;
+	position:relative;
+	width:11px;
+	height:11px;
+	border-radius:150px;
+	top:-145px;
+}
+
+#steps-counter{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	top:-183px;
+	margin-left:20px;
+	font-size:19px;
+}
+
+#see-stats{
+	display:block;
+	position:relative;
+	color:#5ea6c7;
+	font-size:14px;
+	top:-183px;
+	margin-left:205px;
+}
+
+#need-advice{
+	display:block;
+	position:relative;
+	top:-150px;
+	margin-left:75px;
+}
+
+#go-sleep{
+	display:block;
+	position:relative;
+	top:-140px;
+	margin-left:65px;
+}
+
+
+

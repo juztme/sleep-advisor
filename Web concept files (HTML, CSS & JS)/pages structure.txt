@@ -1,0 +1,15 @@
+pages' structure:
+
+page 1: background (we have to find the hex for web), text, button (img or made in code?), img of mascot
+
+page 2: same as 1
+
+page 3: same as 1, without mascot, but it has options to make an account or not
+
+page 4: registration form (if the user presses on the account button), "next" button
+
+page 5: info (hours etc) page with input and drop-down lists for the "pick" buttons, "next" button
+
+hours input: http://www.the-art-of-web.com/javascript/validate-date/
+
+page 6: menu page (list) 
